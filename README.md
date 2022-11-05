@@ -1,10 +1,10 @@
-# Python_Crush_Course</br>
+# Python_Crush_Course
 
-This area covers two topics:</br>
+This area covers two topics:
 
-1. Classes</br>
-2. Functions</br>
+1. Classes
+2. Functions
 
-# Resources: </br>
+# Resources:
 
-Python Crush Course by Eric Matthes.</br>
+Python Crush Course by *Eric Matthes.*
